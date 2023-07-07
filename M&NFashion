@@ -1,0 +1,985 @@
+<!DOCTYPE html>
+ <lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial- 
+         scale=1.0">
+        <meta name="author" content="May Myat Moe Lwin">
+        <meta name="description" content="The official website for 
+         the M&N fashion">
+        <title>M&N Fashion</title>
+        <link rel="icon" href="./Downloads/face logo.jpg" 
+          type="image/x-icon">
+        <link rel="stylesheet" href="css/style-css">
+         <style>
+            body {background-image:
+                url(/Downloads/background.jpg);
+                 background-repeat:no-repeat;
+                 background-size:600%;}
+             ul {
+                list-style-type:none;
+                 padding:0;
+                 margin:0;
+                 overflow:hidden;
+                background-color:transparent;}
+             li  {float:right;}
+             li a {display:block;
+                   padding:16px;
+                   color:black;
+                  text-align:center;
+                  text-decoration:none;}
+            li a:hover { color:gold;
+                        background-color:transparent;}
+         </style>
+    </head>
+
+    <body>
+        <ul>
+            <li><a href="sign up.html">Sign Up</a></li>
+            <li><a href="#content">Content</a></li>
+            <li><a href="#New arrivel">New Arrival</a></li>
+            <li><a href="#Products">Products</a></li>
+            <li><a href="#Sale">Sale</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#home">Home</a></li>
+        </ul>
+        
+        <h1 style="text-align:center;"><i><strong>M&N Fashion and 
+             Beauty</strong></i></h1><br>
+            <img src="./Downloads/dress.jpg" style="float:left;
+            width:90px;height:90px;">
+            <img src="./downloads/dress.jpg"style="float:right;
+            width:90px;height:90px;"><br><br>
+        <p style="font-size:25px;text-align:center;"><i>
+            Fashion is very important for people.
+            The Fashion Thing is part of the Dreaming.
+            A very minor character,she changes with 
+            the seasons as each new fad takes hold.
+            She has been referred to as 
+        </i></p>
+        <hr>
+        <div class="#Home">
+            <h2 style="text-align:center;">Women Styles</h2>
+        <figure style="float:left;">
+            <img src="./Downloads/fashion-1.jpg" alt="girl"
+            style="width:250px;height:200px;">
+            <figcaption>One pieces-8500¥</figcaption>
+            <form>
+                <details>
+                <input type="radio" id="S" name="size"
+                value="S">
+                <label for="S">S</label><br>
+                <input type="radio" id="M" name="size"
+                value="M">
+                <label for="M">M</label><br>
+                <input type="radio" id="L" name="size"
+                value="L">
+                <label for="L">L</label><br>
+                <input type="radio" id="XL" name="size"
+                value="XL">
+                <label for="XL">XL</label>
+                </details>
+            </form>
+            <button style="padding-top:5px;
+                      border:2px solid black;
+                      border-radius:10px;
+                      text-align:center;
+                      text-decoration:none;
+                      color:whitesmoke;
+                      background-color:#FFD700;
+                      display:inline-block;
+                      width:150px;">
+                      <a href="Add to cart.html">Add to Cart</a>
+            </button>
+        </figure>
+        <figure style="float:left;">
+            <img src="./Downloads/fashion2.jpg" alt="free style"
+            style="width:250px;height:200px;">
+            <figcaption>Cute Coat-6500¥</figcaption>
+            <form>
+                <details>
+                <input type="radio" id="S" name="size"
+                value="S">
+                <label for="S">S</label><br>
+                <input type="radio" id="M" name="size"
+                value="M">
+                <label for="M">M</label><br>
+                <input type="radio" id="L" name="size"
+                value="L">
+                <label for="L">L</label><br>
+                <input type="radio" id="XL" name="size"
+                value="XL">
+                <label for="XL">XL</label>
+                </details>
+            </form>
+            <button style="padding-top:5px;
+                      border:2px solid black;
+                      border-radius:10px;
+                      text-align:center;
+                      text-decoration:none;
+                      color:whitesmoke;
+                      background-color:#FFD700;
+                      display:inline-block;
+                      width:150px;">
+                      <a href="Add to cart.html">Add to Cart</a>
+            </button>
+        </figure>
+        <figure style="float:left;"></figure>
+            <img src="./Downloads/fashion3.jpg" alt="girl"
+            style="width:250px;height:200px;">
+            <figcaption>Onesetto-10000¥</figcaption>
+            <form>
+                <details>
+                <input type="radio" id="S" name="size"
+                value="S">
+                <label for="S">S</label><br>
+                <input type="radio" id="M" name="size"
+                value="M">
+                <label for="M">M</label><br>
+                <input type="radio" id="L" name="size"
+                value="L">
+                <label for="L">L</label><br>
+                <input type="radio" id="XL" name="size"
+                value="XL">
+                <label for="XL">XL</label>
+                </details>
+            </form>
+            <button style="padding-top:5px;
+                      border:2px solid black;
+                      border-radius:10px;
+                      text-align:center;
+                      text-decoration:none;
+                      color:whitesmoke;
+                      background-color:#FFD700;
+                      display:inline-block;
+                      width:150px;">
+                      <a href="Add to cart.html">Add to Cart</a>
+            </button>
+        </figure>
+        
+        <figure style="float:left;">
+            <img src="./Downloads/fashion5.jpg" 
+            style="width:250px;height:200px;">
+              <figcaption>Tshirt-4500¥</figcaption>
+              <form>
+                <details>
+                <input type="radio" id="S" name="size"
+                value="S">
+                <label for="S">S</label><br>
+                <input type="radio" id="M" name="size"
+                value="M">
+                <label for="M">M</label><br>
+                <input type="radio" id="L" name="size"
+                value="L">
+                <label for="L">L</label><br>
+                <input type="radio" id="XL" name="size"
+                value="XL">
+                <label for="XL">XL</label>
+                </details>
+            </form>
+            <button style="padding-top:5px;
+                      border:2px solid black;
+                      border-radius:10px;
+                      text-align:center;
+                      text-decoration:none;
+                      color:whitesmoke;
+                      background-color:#FFD700;
+                      display:inline-block;
+                      width:150px;">
+                      <a href="Add To Cart.html">Add to Cart</a>
+            </button>
+        </figure>
+        <figure style="float:left;">
+            <img src="./Downloads/fashion6.jpg"
+            style="width:250px;height:200px;">
+            <figcaption>jinsupoon-9000¥</figcaption>
+            <form>
+                <details>
+                <input type="radio" id="S" name="size"
+                value="S">
+                <label for="S">S</label><br>
+                <input type="radio" id="M" name="size"
+                value="M">
+                <label for="M">M</label><br>
+                <input type="radio" id="L" name="size"
+                value="L">
+                <label for="L">L</label><br>
+                <input type="radio" id="XL" name="size"
+                value="XL">
+                <label for="XL">XL</label>
+                </details>
+            </form>
+            <button style="padding-top:5px;
+                      border:2px solid black;
+                      border-radius:10px;
+                      text-align:center;
+                      text-decoration:none;
+                      color:whitesmoke;
+                      background-color:#FFD700;
+                      display:inline-block;
+                      width:150px;">
+                      <a href="Add to cart.html">Add to Cart</a>
+            </button>
+        </figure> 
+        <figure style="float:left;"> 
+            <img src="./Downloads/fashion7.jpg"
+            style="width:300px;height:300px;">
+            <figcaption>sukato-8500¥</figcaption>
+            <form>
+                <details>
+                <input type="radio" id="S" name="size"
+                value="S">
+                <label for="S">S</label><br>
+                <input type="radio" id="M" name="size"
+                value="M">
+                <label for="M">M</label><br>
+                <input type="radio" id="L" name="size"
+                value="L">
+                <label for="L">L</label><br>
+                <input type="radio" id="XL" name="size"
+                value="XL">
+                <label for="XL">XL</label>
+                </details>
+            </form>
+            <button style="padding-top:5px;
+                      border:2px solid black;
+                      border-radius:10px;
+                      text-align:center;
+                      text-decoration:none;
+                      color:whitesmoke;
+                      background-color:#FFD700;
+                      display:inline-block;
+                      width:150px;">
+                      <a href="Add to cart.html">Add to Cart</a>
+            </button>
+        </figure>
+        <figure style="float:left;">
+            <img src="./Downloads/fashion10.jpg"
+            style="width:300px;height:300px;">
+            <figcaption>Coat-9000¥</figcaption>
+            <form>
+                <details>
+                <input type="radio" id="S" name="size"
+                value="S">
+                <label for="S">S</label><br>
+                <input type="radio" id="M" name="size"
+                value="M">
+                <label for="M">M</label><br>
+                <input type="radio" id="L" name="size"
+                value="L">
+                <label for="L">L</label><br>
+                <input type="radio" id="XL" name="size"
+                value="XL">
+                <label for="XL">XL</label>
+                </details>
+            </form>
+            <button style="padding-top:5px;
+                      border:2px solid black;
+                      border-radius:10px;
+                      text-align:center;
+                      text-decoration:none;
+                      color:whitesmoke;
+                      background-color:#FFD700;
+                      display:inline-block;
+                      width:150px;">
+                      <a href="Add to cart.html">Add to Cart</a>
+            </button>
+        </figure>
+        <figure style="float:left;">
+            <img src="./Downloads/fashion4.jpg" alt="girl"
+            style="float:left;width:300px;height:300px;">
+            <figcaption>Shoulder dress-9500¥</figcaption>
+            <form>
+                <details>
+                <input type="radio" id="S" name="size"
+                value="S">
+                <label for="S">S</label><br>
+                <input type="radio" id="M" name="size"
+                value="M">
+                <label for="M">M</label><br>
+                <input type="radio" id="L" name="size"
+                value="L">
+                <label for="L">L</label><br>
+                <input type="radio" id="XL" name="size"
+                value="XL">
+                <label for="XL">XL</label>
+                </details>
+            </form>
+            <button style="padding-top:5px;
+                      border:2px solid black;
+                      border-radius:10px;
+                      text-align:center;
+                      text-decoration:none;
+                      color:whitesmoke;
+                      background-color:#FFD700;
+                      display:inline-block;
+                      width:150px;">
+                      <a href="Add to cart.html">Add to Cart</a>
+            </button>
+        </figure>
+        <figure style="float:left;">
+            <img src="./Downloads/fashion9.jpg"
+            style="width:280px;height:290px;">
+            <figcaption>Short Coat-11000¥</figcaption>
+            <form>
+                <details>
+                <input type="radio" id="S" name="size"
+                value="S">
+                <label for="S">S</label><br>
+                <input type="radio" id="M" name="size"
+                value="M">
+                <label for="M">M</label><br>
+                <input type="radio" id="L" name="size"
+                value="L">
+                <label for="L">L</label><br>
+                <input type="radio" id="XL" name="size"
+                value="XL">
+                <label for="XL">XL</label>
+                </details>
+            </form>
+            <button style="padding-top:5px;
+                      border:2px solid black;
+                      border-radius:10px;
+                      text-align:center;
+                      text-decoration:none;
+                      color:whitesmoke;
+                      background-color:#FFD700;
+                      display:inline-block;
+                      width:150px;">
+                      <a href="Add to cart.html">Add to Cart</a>
+            </button>
+        </figure>    
+        <figure style="float:left;">
+            <img src="./Downloads/fashion8.jpg"
+            style="width:280px;height:290px;">
+            <figcaption>Oneset-15000¥</figcaption>
+            <form>
+                <details>
+                <input type="radio" id="S" name="size"
+                value="S">
+                <label for="S">S</label><br>
+                <input type="radio" id="M" name="size"
+                value="M">
+                <label for="M">M</label><br>
+                <input type="radio" id="L" name="size"
+                value="L">
+                <label for="L">L</label><br>
+                <input type="radio" id="XL" name="size"
+                value="XL">
+                <label for="XL">XL</label>
+                </details>
+            </form>
+            <button style="padding-top:5px;
+                      border:2px solid black;
+                      border-radius:10px;
+                      text-align:center;
+                      text-decoration:none;
+                      color:whitesmoke;
+                      background-color:#FFD700;
+                      display:inline-block;
+                      width:150px;">
+                      <a href="Add to cart.html">Add to Cart</a>
+            </button>
+        </figure>
+        
+        </div>
+        
+         
+        <div class="Home">
+            
+        <figure style="float:left;">
+            <img src="./Downloads/photo1.jpg"
+            style="width:280px;height:290px;">
+            <figcaption>Tshirt-4500¥</figcaption>
+            <form>
+                <details>
+                <input type="radio" id="S" name="size"
+                value="S">
+                <label for="S">S</label><br>
+                <input type="radio" id="M" name="size"
+                value="M">
+                <label for="M">M</label><br>
+                <input type="radio" id="L" name="size"
+                value="L">
+                <label for="L">L</label><br>
+                <input type="radio" id="XL" name="size"
+                value="XL">
+                <label for="XL">XL</label>
+                </details>
+            </form>
+            <button style="padding-top:5px;
+                      border:2px solid black;
+                      border-radius:10px;
+                      text-align:center;
+                      text-decoration:none;
+                      color:whitesmoke;
+                      background-color:#FFD700;
+                      display:inline-block;
+                      width:150px;">
+                      <a href="Add to cart.html">Add to Cart</a>
+            </button>
+        </figure>
+        <figure style="float:left;">
+            <img src="./Downloads/photo2.jpg"
+            style="width:300px;height:300px;">
+            <figcaption>Jin Coat-5000¥</figcaption>
+            <form>
+                <details>
+                <input type="radio" id="S" name="size"
+                value="S">
+                <label for="S">S</label><br>
+                <input type="radio" id="M" name="size"
+                value="M">
+                <label for="M">M</label><br>
+                <input type="radio" id="L" name="size"
+                value="L">
+                <label for="L">L</label><br>
+                <input type="radio" id="XL" name="size"
+                value="XL">
+                <label for="XL">XL</label>
+                </details>
+            </form>
+            <button style="padding-top:5px;
+                      border:2px solid black;
+                      border-radius:10px;
+                      text-align:center;
+                      text-decoration:none;
+                      color:whitesmoke;
+                      background-color:#FFD700;
+                      display:inline-block;
+                      width:150px;">
+                      <a href="Add to cart.html">Add to Cart</a>
+            </button>
+        </figure>
+        <figure style="float:left;">
+        <img src="./Downloads/photo3.jpg"
+        style="width:300px;height:300px;">
+        <figcaption>Long Coat-6500¥</figcaption>
+        <form>
+            <details>
+            <input type="radio" id="S" name="size"
+            value="S">
+            <label for="S">S</label><br>
+            <input type="radio" id="M" name="size"
+            value="M">
+            <label for="M">M</label><br>
+            <input type="radio" id="L" name="size"
+            value="L">
+            <label for="L">L</label><br>
+            <input type="radio" id="XL" name="size"
+            value="XL">
+            <label for="XL">XL</label>
+            </details>
+        </form>
+        <button style="padding-top:5px;
+                  border:2px solid black;
+                  border-radius:10px;
+                  text-align:center;
+                  text-decoration:none;
+                  color:whitesmoke;
+                  background-color:#FFD700;
+                  display:inline-block;
+                  width:150px;">
+                  <a href="Add to cart.html">Add to Cart</a>
+        </button>
+        </figure>
+        <figure style="float:left;">
+            <img src="./Downloads/photo4.jpg"
+            style="width:300px;height:300px;">
+            <figcaption>Sweta-8500¥</figcaption>
+            <form>
+                <details>
+                <input type="radio" id="S" name="size"
+                value="S">
+                <label for="S">S</label><br>
+                <input type="radio" id="M" name="size"
+                value="M">
+                <label for="M">M</label><br>
+                <input type="radio" id="L" name="size"
+                value="L">
+                <label for="L">L</label><br>
+                <input type="radio" id="XL" name="size"
+                value="XL">
+                <label for="XL">XL</label>
+                </details>
+            </form>
+            <button style="padding-top:5px;
+                      border:2px solid black;
+                      border-radius:10px;
+                      text-align:center;
+                      text-decoration:none;
+                      color:whitesmoke;
+                      background-color:#FFD700;
+                      display:inline-block;
+                      width:150px;">
+                      <a href="Add to cart.html">Add to Cart</a>
+            </button>
+        </figure>
+        <figure style="float:left;">
+            <img src="./Downloads/photo6.jpg"
+            style="width:300px;height:300px;">
+            <figcaption>coat-10000¥</figcaption>
+            <form>
+                <details>
+                <input type="radio" id="S" name="size"
+                value="S">
+                <label for="S">S</label><br>
+                <input type="radio" id="M" name="size"
+                value="M">
+                <label for="M">M</label><br>
+                <input type="radio" id="L" name="size"
+                value="L">
+                <label for="L">L</label><br>
+                <input type="radio" id="XL" name="size"
+                value="XL">
+                <label for="XL">XL</label>
+                </details>
+            </form>
+            <button style="padding-top:5px;
+                      border:2px solid black;
+                      border-radius:10px;
+                      text-align:center;
+                      text-decoration:none;
+                      color:whitesmoke;
+                      background-color:#FFD700;
+                      display:inline-block;
+                      width:150px;">
+                      <a href="Add to cart.html">Add to Cart</a>
+            </button>
+            </figure>
+        <figure style="float:left;">
+          <img src="./Downloads/photo5.jpg"
+          style="width:300px;height:300px;">
+          <figcaption>Short Coat-7500¥</figcaption>
+          <form>
+            <details>
+            <input type="radio" id="S" name="size"
+            value="S">
+            <label for="S">S</label><br>
+            <input type="radio" id="M" name="size"
+            value="M">
+            <label for="M">M</label><br>
+            <input type="radio" id="L" name="size"
+            value="L">
+            <label for="L">L</label><br>
+            <input type="radio" id="XL" name="size"
+            value="XL">
+            <label for="XL">XL</label>
+            </details>
+        </form>
+        <button style="padding-top:5px;
+                  border:2px solid black;
+                  border-radius:10px;
+                  text-align:center;
+                  text-decoration:none;
+                  color:whitesmoke;
+                  background-color:#FFD700;
+                  display:inline-block;
+                  width:150px;">
+                  <a href="Add to cart.html">Add to Cart</a>
+        </button>
+        </figure>
+        
+         </div><br><br>
+         
+         <div class="Men Styles">
+            <figure style="float:left;">
+            <img src="./Downloads/kid1.jpg"
+            style="width:300px;height:300px;">
+            <figcaption>Tshirt-5500¥</figcaption>
+            <form>
+                <details>
+                    <input type="radio" id="S" name="size"
+                    value="S">
+                    <label for="S">S</label><br>
+                    <input type="radio" id="M" name="size"
+                    value="M">
+                    <label for="M">M</label><br>
+                    <input type="radio" id="L" name="size"
+                    value="L">
+                    <label for="L">L</label><br>
+                    <input type="radio" id="XL" name="size"
+                    value="XL">
+                    <label for="XL">XL</label>
+                </details>
+                <button style="scroll-padding-top:5px;
+                           text-align:center;
+                           color:white;
+                           border:2px solid black;
+                           border-radius:10px;
+                           background-color:#FFD700;
+                           width:150px;
+                           text-decoration:none;
+                           display:inline-block;">
+                    <a href="Add to Cart.html">Add to Cart</a>      
+                </button>
+            </form>
+            </figure>
+            <figure style="float:left;">
+            <img src="./Downloads/kid2.jpg"
+            style="width:300px;height:300px;">
+            <figcaption>Cute Coat-7500¥</figcaption>
+            <form>
+                <details>
+                    <input type="radio" id="S" name="size"
+                    value="S">
+                    <label for="S">S</label><br>
+                    <input type="radio" id="M" name="size"
+                    value="M">
+                    <label for="M">M</label><br>
+                    <input type="radio" id="L" name="size"
+                    value="L">
+                    <label for="L">L</label><br>
+                    <input type="radio" id="XL" name="size"
+                    value="XL">
+                    <label for="XL">XL</label><br>
+                </details>
+                    <button style="scroll-padding-top:5px;
+                                   text-align:center;
+                                   text-decoration:none;
+                                   color:white;
+                                   background-color:#FFD700;
+                                   border:2px solid black;
+                                   border-radius:10px;
+                                   display:inline-block;
+                                   width:150px;">
+                       <a href="Add to Cart.html">Add to Cart</a>
+                    </button>
+            </form>
+            </figure>
+            <figure style="float:left;">
+            <img src="./Downloads/kid3.jpg"
+            style="width:300px;height:300px;">
+            <figcaption>Jin-9500¥</figcaption>
+            <form>
+                <details>
+                    <input type="radio" id="S" name="size"
+                    value="S">
+                    <label for="S">S</label><br>
+                    <input type="radio" id="M" name="size"
+                    value="M">
+                    <label for="M">M</label><br>
+                    <input type="radio" id="L" name="size"
+                    value="L">
+                    <label for="L">L</label><br>
+                    <input type="radio" id="XL" name="size"
+                    value="XL">
+                    <label for="XL">XL</label><br>
+                </details>
+                    <button style="scroll-padding-top:5px;
+                                   text-align:center;
+                                   text-decoration:none;
+                                   color:white;
+                                   background-color:#FFD700;
+                                   border:2px solid black;
+                                   border-radius:10px;
+                                   display:inline-block;
+                                   width:150px;">
+                            <a href="Add to Cart.html">Add to    
+                             Cart</a>       
+                    </button>
+            </form>
+            </figure>
+            
+            <figure style="float:left;">
+            <img src="./Downloads/kid5.jpg"
+            style="width:300px;height:300px;">
+            <figcaption>sukato-9000¥</figcaption>
+            <form>
+                <details>
+                    <input type="radio" id="S" name="size"
+                    value="S">
+                    <label for="S">S</label><br>
+                    <input type="radio" id="M" name="size"
+                    value="M">
+                    <label for="M">M</label><br>
+                    <input type="radio" id="L" name="size"
+                    value="L">
+                    <label for="L">L</label><br>
+                    <input type="radio" id="XL" name="size"
+                    value="XL">
+                    <label for="XL">XL</label><br>
+                </details>
+                    <button style="scroll-padding-top:5px;
+                                   text-align:center;
+                                   text-decoration:none;
+                                   color:white;
+                                   background-color:#FFD700;
+                                   border:2px solid black;
+                                   border-radius:10px;
+                                   display:inline-block;
+                                   width:150px;">
+                            <a href="Add to Cart.html">Add to    
+                             Cart</a>       
+                    </button>
+            </form>
+            </figure>
+            <figure style="float:left;">
+            <img src="./downloads/kid6.jpg"
+            style="width:200px;height:300px;">
+            <figcaption>Tshirt-10000¥</figcaption>
+            <form>
+                <details>
+                    <input type="radio" id="S" name="size"
+                    value="S">
+                    <label for="S">S</label><br>
+                    <input type="radio" id="M" name="size"
+                    value="M">
+                    <label for="M">M</label><br>
+                    <input type="radio" id="L" name="size"
+                    value="L">
+                    <label for="L">L</label><br>
+                    <input type="radio" id="XL" name="size"
+                    value="XL">
+                    <label for="XL">XL</label><br>
+                </details>
+                    <button style="scroll-padding-top:5px;
+                                   text-align:center;
+                                   text-decoration:none;
+                                   color:white;
+                                   background-color:#FFD700;
+                                   border:2px solid black;
+                                   border-radius:10px;
+                                   display:inline-block;
+                                   width:150px;">
+                            <a href="Add to Cart.html">Add to    
+                             Cart</a>       
+                    </button>
+            </form>
+            </figure>
+            <figure style="float:left;">
+                <img src="./Downloads/kid4.jpg"
+                style="width:400px;height:300px;">
+                <figcaption>Cute dress-15000¥</figcaption>
+                <form>
+                    <details>
+                        <input type="radio" id="S" name="size"
+                        value="S">
+                        <label for="S">S</label><br>
+                        <input type="radio" id="M" name="size"
+                        value="M">
+                        <label for="M">M</label><br>
+                        <input type="radio" id="L" name="size"
+                        value="L">
+                        <label for="L">L</label><br>
+                        <input type="radio" id="XL" name="size"
+                        value="XL">
+                        <label for="XL">XL</label><br>
+                    </details>
+                        <button style="scroll-padding-top:5px;
+                                       text-align:center;
+                                       text-decoration:none;
+                                       color:white;
+                                       background-color:#FFD700;
+                                       border:2px solid black;
+                                       border-radius:10px;
+                                       display:inline-block;
+                                       width:150px;">
+                                <a href="Add to Cart.html">Add to    
+                                 Cart</a>       
+                        </button>
+                </form>
+                </figure>
+         </div>
+
+         <figure style="float:left;">
+        <img src="./Downloads/cosmetic1.jpg"
+        style="width:300px;height:300px;">
+        <figcaption>8000¥</figcaption>
+        <button style="scroll-padding-top:5px;
+                                       text-align:center;
+                                       text-decoration:none;
+                                       color:white;
+                                       background-color:#FFD700;
+                                       border:2px solid black;
+                                       border-radius:10px;
+                                       display:inline-block;
+                                       width:150px;">
+                                <a href="Add to Cart.html">Add to    
+                                 Cart</a>       
+        </button>
+        </figure>
+        <figure style="float:left;">
+            <img src="./Downloads/lip2.jpg"
+            style="width:300px;height:300px;">
+            <figcaption>lip-7500¥</figcaption>
+            <button style="scroll-padding-top:5px;
+                                       text-align:center;
+                                       text-decoration:none;
+                                       color:white;
+                                       background-color:#FFD700;
+                                       border:2px solid black;
+                                       border-radius:10px;
+                                       display:inline-block;
+                                       width:150px;">
+                                <a href="Add to Cart.html">Add to    
+                                 Cart</a>       
+            </button>
+        </figure>
+        <figure style="float:left;">
+        <img src="./Downloads/cosmetic2.jpg"
+        style="width:300px;height:300px;">
+        <figcaption>15000¥</figcaption>
+        <button style="scroll-padding-top:5px;
+                                       text-align:center;
+                                       text-decoration:none;
+                                       color:white;
+                                       background-color:#FFD700;
+                                       border:2px solid black;
+                                       border-radius:10px;
+                                       display:inline-block;
+                                       width:150px;">
+                                <a href="Add to Cart.html">Add to    
+                                 Cart</a>       
+        </button>
+        </figure>
+        <figure style="float:left;">
+        <img src="./Downloads/cream1.jpg"
+        style="width:300px;height:300px;">
+        <figcaption>Cream-8000¥</figcaption>
+        <button style="scroll-padding-top:5px;
+                                       text-align:center;
+                                       text-decoration:none;
+                                       color:white;
+                                       background-color:#FFD700;
+                                       border:2px solid black;
+                                       border-radius:10px;
+                                       display:inline-block;
+                                       width:150px;">
+                                <a href="Add to Cart.html">Add to    
+                                 Cart</a>       
+        </button>
+        </figure>
+        <figure style="float:left;">
+        <img src="./Downloads/cometic4.jpg"
+        style="width:300px;height:300px;">
+        <figcaption>cometic-20000¥</figcaption>
+        <button style="scroll-padding-top:5px;
+                                       text-align:center;
+                                       text-decoration:none;
+                                       color:white;
+                                       background-color:#FFD700;
+                                       border:2px solid black;
+                                       border-radius:10px;
+                                       display:inline-block;
+                                       width:150px;">
+                                <a href="Add to Cart.html">Add to    
+                                 Cart</a>       
+        </button>
+        </figure>
+        <figure style="Float:left;">
+        <img src="./Downloads/beyou.jpg"
+        style="width:300px;height:300px;">
+        <figcaption>cosmetic=9500¥</figcaption>
+        <button style="scroll-padding-top:5px;
+                       text-align:center;
+                       text-decoration:none;
+                       color:white;
+                       background-color:#FFD700;
+                       border:2px solid black;
+                       border-radius:10px;
+                       display:inline-block;
+                       width:150px;">
+            <a href="Add to Cart.html">Add to Cart</a>
+        </button>
+        </figure>
+        <figure style="float:left;">
+        <img src="./Downloads/hair set.jpg" style="width:300px;height:300px;">
+        <figcaption>Hair Set=20000¥</figcaption>
+        <button style="padding:5px;
+                       text-align:center;
+                       border:2px solid black;
+                       border-radius:10px;
+                       color:white;
+                       background-color:#FFD700;
+                       display:inline-block;
+                       text-decoration:none;
+                       width:150px;">
+          <a href="Add TO Cart.html">Add To Cart</a>
+        </button>
+        </figure>
+        <figure style="float:left;">
+        <img src="./Downloads/hair dryer.jpg1.avif"
+         style="width:300px;height:300px;">
+         <figcaption>
+            hairdryer=1000¥
+         <form action="/action-page.M&NFashion">
+            <label for="Quality">Quality</label>
+            <select id="Quality" name="items">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+         </form>
+        </figcaption>
+         <button style="border:2px solid black;
+                        border-radius:10px;
+                        color:white;
+                        background-color:#FFD700;
+                        padding:5px;
+                        display:inline-block;
+                        width:150px;
+                        text-decoration:none;">
+                <a href="Add To Cart.html">Add To Cart</a>       
+            </button>
+        </figure>
+        <figure style="float:left;">
+        <img src="./Downloads/hair oil.jpg"
+        style="width:300px;height:300px;">
+        <figcaption>hair oil=9000¥
+            <form action="/action-page.M&NFadion">
+                <label for="Quality">Quality</label>
+                <select id="Quality" name="items">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </form>
+        </figcaption><br>
+        <button style="padding:5px;
+                       border:2px solid black;
+                       border-radius:10px;
+                       background-color:#FFD700;
+                       color:white;
+                       display:inline-block;
+                       width:150px;
+                       text-decoration:none;">
+                      <a href="Add To Cart.html">Add To Cart</a> 
+        </button>
+        </figure>
+        <figure style="float:left;">
+        <img src="./Downloads/hair set.jpg"
+        style="width:300px;height:300px;">
+        <figcaption>Hair Set=15000¥
+            <form action="/action-page.M&NFashiion">
+                <label for="Quality">Quality</label>
+                <select id="Quality" name="items">
+               <option value="1">1</opation>
+               <option value="2">2</opation>
+               <option value="3">3</opation>
+               <option value="4">4</opation>
+               <option value="5">5</opation>
+               </select>
+               </form>
+         </figcaption><br>
+         <button style="border:2px solid black;
+                        border-radius:10px;
+                        padding:5px;
+                        background-color:#FFD700;
+                        color:white;
+                        text-align:center;
+                        text-decoration:none;
+                        display:inline-block;
+                        width:150px;">
+         <a href="Add To Cart.html">Add To Cart</a>      
+          </button>
+        </figure>
+    </body>
+
+
+
+
